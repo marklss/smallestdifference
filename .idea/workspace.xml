@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_platform_launcher_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/assertj-core-3.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.10.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-agent-1.10.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-launcher-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mockito-core-3.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/objenesis-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smallestdifference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/kohnlehome/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1287" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1YwoT4drBShiSWMWg5qBBPfgrkD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smallestdifference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.kohnlehome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.kohnlehome" />
+      <option name="MAIN_CLASS_NAME" value="de.kohnlehome.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smallestdifference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.kohnlehome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.kohnlehome" />
+      <option name="MAIN_CLASS_NAME" value="de.kohnlehome.AppTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="" />
+      <created>1583863022047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583863022047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest - 2020.03.11 at 09h 39m 28s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="189" width="540" height="640" key="#Notifications" timestamp="1587556768962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="372" y="189" width="540" height="640" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587556768962" />
+    <state x="418" y="184" width="800" height="672" key="#Project_Structure" timestamp="1583863107413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="184" width="800" height="672" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583863107413" />
+    <state x="114" y="107" key="CommitChangelistDialog2" timestamp="1587556752345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="114" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587556752345" />
+    <state x="344" y="418" key="Github.ShareDialog" timestamp="1587556490706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587556490706" />
+    <state x="231" y="225" key="Github.UntrackedFilesDialog" timestamp="1587556500384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="231" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587556500384" />
+    <state width="1586" height="243" key="GridCell.Tab.0.bottom" timestamp="1583863408318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1586" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408318" />
+    <state width="1586" height="243" key="GridCell.Tab.0.center" timestamp="1583863408317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1586" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
+    <state width="1586" height="243" key="GridCell.Tab.0.left" timestamp="1583863408317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1586" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
+    <state width="1586" height="243" key="GridCell.Tab.0.right" timestamp="1583863408317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1586" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
+  </component>
+</project>
